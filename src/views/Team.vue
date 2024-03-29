@@ -21,7 +21,7 @@ export default {
       <Member github-name="p0t4t0sandwich" discord-name="ThePotatoKing" :roles="['Staff']" :socials="['https://www.twitch.tv/bob_and_sparkles', 'https://www.youtube.com/channel/UCB70eOPhOIWr7H-J58OZAZw']" />
       <Member github-name="Kit4444" discord-name="Chris ツ" :roles="['Helper']" :socials="['https://www.twitch.tv/chriswille2856', 'https://www.youtube.com/channel/UCkTayY7PX4oV2DBABEaDQKQ']" />
       <Member github-name="Mattaous" :roles="['Helper']" :socials="['https://www.twitch.tv/mattaoustv', 'https://www.youtube.com/channel/UCvnxsFaR7JL3chGAGADurHA']" />
-      <Member github-name="Soapy7261" :roles="['Helper']" />
+      <Member github-name="Soapy7261" :roles="['Helper']" :socials="['https://www.youtube.com/channel/UCEt0JZOxm86N4XoIZBWcq2g']"/>
       <Member github-name="Almighty-Satan" :roles="['Contributor']" />
       <Member github-name="m1lc0lm" discord-name="Malcolm" :roles="['Contributor']" :socials="['https://www.twitch.tv/malcolm3000']" />
       <Member github-name="TonimatasDEV" :roles="['Contributor']" :socials="['https://www.twitch.tv/tonimatasdev', 'https://www.youtube.com/channel/UCUB8iy2bYCvlF2JZBi3vTIw']" />
